@@ -1,0 +1,8 @@
+dist/
+scripts/data
+scripts/env_data_processing/raw_data
+scripts/env_data_processing/regridded_data
+scripts/ModelOutput
+abil.sif
+__pycache__/
+abil/__pycache__/

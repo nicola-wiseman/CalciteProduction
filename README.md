@@ -1,4 +1,4 @@
-# Abil.py &middot;
+# Estimating Global Calcite Production with Abil.py
 
 ## Overview
 
@@ -20,4 +20,11 @@ pip install abil
 
 ## Documentation
 
-See the [documentation](https://nanophyto.github.io/Abil/) for instructions on how to setup and run the models.
+See the [ Abil.py documentation](https://nanophyto.github.io/Abil/) for instructions on how to setup and run the models.
+
+# Implementation
+
+This repository was used to generate the results for Wiseman et al., XXXX. The data required can be found at the following links
+- [Environmental Data](https://zenodo.org/records/16753618)
+- [Calcite Production Data]()
+
